@@ -23,3 +23,27 @@ li {
 .list {
     display: flex;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    background: #5cb8ff;
+    padding: 20px 30px 20px 30px;
+}
+
+.title {
+    text-align: center;
+    margin-top: 200px;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
