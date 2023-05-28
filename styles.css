@@ -84,3 +84,7 @@ h3 {
 .final {
     margin-bottom: 30px;
 }
+.container-about img {
+    border-radius: 100%;
+    border: 3px solid #000;
+}
